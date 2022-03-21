@@ -43,4 +43,4 @@ Home Page > All Customers > Select and View one Customer > Transfer Money > Sele
 
 ## Screenshots
 
-!.[example].(https://github.com/nishachar01/SPARKS_GRIP_22_Intern_Tasks/blob/main/internship%20output/customer%20detail.png)
+![example](https://github.com/nishachar01/SPARKS_GRIP_22_Intern_Tasks/blob/main/internship%20output/customer%20detail.png)
